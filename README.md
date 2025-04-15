@@ -5,7 +5,7 @@ This project allows users to input a URL from a web interface. It then scrapes t
 
 ---
 
-## 🚀 Features
+## Features
 
 - Input a URL directly from a web form
 - Scrapes the page title and heading
@@ -14,7 +14,7 @@ This project allows users to input a URL from a web interface. It then scrapes t
 
 ---
 
-## 🛠️ How to Build & Run
+## How to Build & Run
 
 ### 1. Unzip the project
 
@@ -46,7 +46,7 @@ Enter a website URL to scrape its title and `<h1>` heading.
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 .
@@ -61,7 +61,7 @@ Enter a website URL to scrape its title and `<h1>` heading.
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - Make sure the target URL is public and allows scraping.
 - Chromium is installed via `apt` in the container.
@@ -69,7 +69,7 @@ Enter a website URL to scrape its title and `<h1>` heading.
 
 ---
 
-## ✅ Example
+## Example
 
 Try scraping:
 
