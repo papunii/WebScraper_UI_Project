@@ -16,7 +16,7 @@ This project allows users to input a URL from a web interface. It then scrapes t
 
 ## How to Build & Run
 
-### 1. Unzip the project
+### 1. Clone the project
 
 ```bash
 cd WebScraper_UI_Project
