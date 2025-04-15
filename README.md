@@ -31,7 +31,7 @@ docker build -t puppeteer-flask-app .
 ### 3. Run the container
 
 ```bash
-docker run -p 5000:5000 puppeteer-flask-app
+docker run -d -p  5000:5000 puppeteer-flask-app
 ```
 
 ### 4. Access the web interface
