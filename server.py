@@ -8,7 +8,7 @@ SCRAPED_FILE = "scraped_data.json"
 
 @app.route("/", methods=["GET", "POST"])
 def index():
-    scraped = {"title": "No Data Yet", "heading": "Enter a URL to begin scraping."}
+    scraped = {"title": "Welcome To WebScraper", "heading": "Enter a URL to begin scraping."}
 
     if request.method == "POST":
         url = request.form.get("url")
